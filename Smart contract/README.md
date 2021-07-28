@@ -1,4 +1,4 @@
-# Build a Dapp in 20 Minutes
+# Build a Dapp in 30 Minutes
 
 Here are the tools we'll use in this tutorial:
 1. Web3 JS - enables client side app to talk to blockchain
